@@ -1,0 +1,51 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type (based on data) of video games. Use the name of game in data with 'such as', 'like' etc. The response should consist of a single yes/no question. Make sure you ask about the general category of games corresponding to the given attributes, not the example game directly. Generate diverse responses.No extra information should be added in Data to Text for <suggest>:
+
+
+Data: Top Gun genre romance film, melodrama. Top Gun domain movies.
+
+Data to Text for <suggest>:  Did you ever watch a romantic melodrama film, like Top Gun?
+
+
+Data: Once Upon a Time in Hollywood domain movies.
+
+Data to Text for <suggest>:  I'm curious, have you ever seen any movies like Once Upon a Time in Hollywood?
+
+
+Data: Blade Runner screenwriter Hampton Fancher, David Peoples. Blade Runner domain movies.
+
+Data to Text for <suggest>:  Did you ever watch a movie, like Blade Runner, written by Hampton Fancher and David Peoples?
+
+
+Data: The Batman genre drama fiction, superhero film. The Batman screenwriter Matt Reeves, Peter Craig. The Batman domain movies.
+
+Data to Text for <suggest>:  Have you seen any of the superhero drama fiction movies written by Matt Reeves and Peter Craig, like The Batman?
+
+
+Data: Ad Astra director James Gray. Ad Astra genre thriller film, science fiction film. Ad Astra domain movies.
+
+Data to Text for <suggest>: Have you ever watched a movie directed by James Gray, like Ad Astra, which is a thriller and science fiction film?
+
+
+Data: Sonic the Hedgehog 2 publication date 2022. Sonic the Hedgehog 2 MPA film rating PG. Sonic the Hedgehog 2 domain movies.
+
+Data to Text for <suggest>:  Are you looking forward to any PG-rated films coming out in 2022, like Sonic the Hedgehog 2?
+
+
+Data: Eternals producer Kevin Feige. Eternals MPA film rating PG-13. Eternals domain movies.
+
+Data to Text for <suggest>:  Have you seen any PG-13 movies produced by Kevin Feige, like Eternals?
+
+
+Data: Top Gun genre drama film, romance film. Top Gun cast member Meg Ryan, Tom Cruise. Top Gun domain movies.
+
+Data to Text for <suggest>:  Have you seen any drama and romance films starring Meg Ryan and Tom Cruise, like Top Gun?
+
+
+Data: The Godfather genre crime film, drama film. The Godfather MPA film rating R. The Godfather domain movies.
+
+Data to Text for <suggest>:  Have you ever watched an R rated crime or drama movie, like The Godfather?
+
+
+Data: Bird Box screenwriter Eric Heisserer. Bird Box producer Clayton Townsend, Chris Morgan. Bird Box domain movies.
+
+Data to Text for <suggest>:  Are you familiar with any of Eric Heisserer's movies, such as Bird Box, that was produced by Clayton Townsend and Chris Morgan?

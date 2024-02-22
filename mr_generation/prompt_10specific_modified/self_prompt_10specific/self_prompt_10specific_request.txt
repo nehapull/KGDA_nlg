@@ -1,0 +1,51 @@
+description of <request>: Ask a question to start talking about a domain. The question must be formulated in such a way that the expected answer would be the name of a single domain, or a yes/no answer. The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.). Don't repeat yourself.No extra information should be added in Data to Text for <request>:
+
+
+Data: movies specifier interesting. movies genre tragicomedy, drama film. movies domain movies.
+
+Data to Text for <request>: What's an interesting tragicomedy or drama movie you've watched?
+
+
+Data: movies specifier cheerful. movies screenwriter Justin Theroux. movies domain movies.
+
+Data to Text for <request>: What cheerful movie did Justin Theroux write?
+
+
+Data: movies specifier realistic. movies cast member Luke Evans, Giuseppe Battiston. movies domain movies.
+
+Data to Text for <request>: Are there any movies starring Luke Evans and Giuseppe Battiston that you'd consider to be realistic?
+
+
+Data: movies specifier boring. movies genre science fiction film, action film. movies domain movies.
+
+Data to Text for <request>: What's the most boring science fiction or action film you've seen?
+
+
+Data: movies specifier scary. movies MPA film rating R. movies domain movies.
+
+Data to Text for <request>: Have you seen any R-rated horror movies that were really scary?
+
+
+Data: movies specifier overrated. movies screenwriter Julian Fellowes. movies domain movies. 
+
+Data to Text for <request>: Do you think any of Julian Fellowes' movies are overrated?
+
+
+Data: movies specifier engaging. movies genre war film, film based on a novel. movies domain movies. 
+
+Data to Text for <request>: Can you think of an engaging war film that's based on a novel?
+
+
+Data: movies specifier interesting. movies publication date 2007. movies domain movies.
+
+Data to Text for <request>: What interesting movie did you watch from 2007?
+
+
+Data: movies specifier funniest. movies MPA film rating R. movies domain movies.
+
+Data to Text for <request>: What's the funniest R-rated movie you know?
+
+
+Data: movies specifier cheerful. movies domain movies.
+
+Data to Text for <request>: What's a cheerful movie you've seen lately?

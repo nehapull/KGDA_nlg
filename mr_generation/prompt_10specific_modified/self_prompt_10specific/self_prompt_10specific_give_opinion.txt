@@ -1,0 +1,51 @@
+description of <give_opinion>: An expression of opinion along with its justification.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification.The justification will also be based on the given attributes.No extra information should be added in Data to Text for <give_opinion>:
+
+
+Data: Spider-Man 3 review score average. Spider-Man 3 director Sam Raimi. Spider-Man 3 character Elya Baskin as Mr. Ditkovich. Spider-Man 3 domain movies.
+
+Data to Text for <give_opinion>:  Spider-Man 3 is an average movie, but I think it's worth watching for the great performance of Elya Baskin as Mr. Ditkovich and the direction of Sam Raimi.
+
+
+Data: All Quiet on the Western Front review score excellent. All Quiet on the Western Front director Edward Berger. All Quiet on the Western Front cast member Michael Stange, Wolf Danny Homann. All Quiet on the Western Front domain movies.
+
+Data to Text for <give_opinion>: All Quiet on the Western Front was an excellent movie. Edward Berger's direction was spot on and the performances by Michael Stange and Wolf Danny Homann were outstanding.
+
+
+Data: Captain America: The Winter Soldier review score good. Captain America: The Winter Soldier publication date 2014. Captain America: The Winter Soldier director Joe Russo. Captain America: The Winter Soldier domain movies.
+
+Data to Text for <give_opinion>: I think Captain America: The Winter Soldier is a good movie. The direction by Joe Russo was spot on and the release date in 2014 was perfect.
+
+
+Data: Creed II review score average. Downton Abbey MPA film rating PG. Downton Abbey genre historical drama. Downton Abbey domain movies.
+
+Data to Text for <give_opinion>:  I think Creed II is an average movie. It's a PG-rated historical drama, which is a genre I don't particularly enjoy.
+
+
+Data: Apollo 13 review score excellent. Apollo 13 publication date 1995. Apollo 13 genre survival film, drama film. Apollo 13 domain movies.
+
+Data to Text for <give_opinion>:  I think Apollo 13 is an excellent movie. The story of survival and drama is really captivating, and it was one of the best films of 1995.
+
+
+Data: The Godfather review score excellent. The Godfather cast member Salvatore Corsitto, John Marley. The Godfather screenwriter Francis Ford Coppola, Mario Puzo. The Godfather domain movies.
+
+Data to Text for <give_opinion>: The Godfather is an excellent movie. It has a great cast with Salvatore Corsitto and John Marley, and the writing by Francis Ford Coppola and Mario Puzo is top notch.
+
+
+Data: Baby Driver review score excellent. Baby Driver producer Tim Bevan. Baby Driver publication date 2017. Baby Driver domain movies.
+
+Data to Text for <give_opinion>: Baby Driver is an excellent movie produced by Tim Bevan and released in 2017. I highly recommend it.
+
+
+Data: Thor: Love and Thunder review score average. Thor: Love and Thunder producer Kevin Feige. Thor: Love and Thunder cast member Stephen Hunter, Elsa Pataky. Thor: Love and Thunder domain movies.
+
+Data to Text for <give_opinion>:  Thor: Love and Thunder had an average review score, but I think Stephen Hunter and Elsa Pataky's performances made it worth watching. Kevin Feige did a good job producing it too.
+
+
+Data: Ad Astra review score good. Ad Astra producer Dede Gardner, Jeremy Kleiner, Anthony Katagas, Brad Pitt. Ad Astra MPA film rating PG-13. Ad Astra domain movies.
+
+Data to Text for <give_opinion>:  Ad Astra is an excellent movie. The producers Dede Gardner, Jeremy Kleiner, Anthony Katagas, and Brad Pitt have done a great job and the PG-13 rating makes it accessible for all ages.
+
+
+Data: The Whale review score average. The Whale MPA film rating R. The Whale character Brendan Fraser as Charlie. The Whale domain movies.
+
+Data to Text for <give_opinion>:  The Whale is an average movie, but I did enjoy seeing Brendan Fraser as Charlie.

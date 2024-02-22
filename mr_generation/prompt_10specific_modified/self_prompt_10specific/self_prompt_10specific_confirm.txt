@@ -1,0 +1,51 @@
+description of <confirm>: Imagine that the game's name has just been mentioned in the conversation, but you know of multiple games with that name and want to verify if your friend meant the same one as you.The response should consist of a single yes/no question.No extra information should be added in Data to Text for <confirm>:
+
+
+Data: The Whale publication date 2023. The Whale screenwriter Samuel D. Hunter. The Whale domain movies.
+
+Data to Text for <confirm>: Are you referring to the 2023 movie The Whale written by Samuel D. Hunter?
+
+
+Data: Fargo director Ethan Coen. Fargo domain movies.
+
+Data to Text for <confirm>: Are you talking about the movie Fargo by Ethan Coen?
+
+
+Data: The Whale character Samantha Morton as Mary. The Whale domain movies.
+
+Data to Text for <confirm>: Are you referring to The Whale movie with Samantha Morton as Mary?
+
+
+Data: Elvis genre biographical film, drama film. Elvis domain movies.
+
+Data to Text for <confirm>: Are you referring to the biographical drama film Elvis?
+
+
+Data: The Banshees of Inisherin screenwriter Martin McDonagh. The Banshees of Inisherin domain movies.
+
+Data to Text for <confirm>: Are you referring to The Banshees of Inisherin written by Martin McDonagh?
+
+
+Data: Fargo cast member Peter Stormare, Frances McDormand. Fargo producer Ethan Coen, Joel Coen. Fargo domain movies.
+
+Data to Text for <confirm>:  Are you referring to the movie Fargo with Peter Stormare and Frances McDormand, produced by Ethan Coen and Joel Coen?
+
+
+Data: Scooby-Doo genre fantasy film, adventure film. Scooby-Doo director Raja Gosnell. Scooby-Doo domain movies.
+
+Data to Text for <confirm>:  Are you referring to the fantasy-adventure film, Scooby-Doo, directed by Raja Gosnell?
+
+
+Data: Eternals producer Kevin Feige. Eternals publication date 2021. Eternals domain movies.
+
+Data to Text for <confirm>: Oh! So you're referring to the 2021 movie Eternals produced by Kevin Feige?
+
+
+Data: Avengers: Endgame cast member Michael James Shaw, Julian Russo. Avengers: Endgame publication date 2019. Avengers: Endgame domain movies.
+
+Data to Text for <confirm>: Do you mean the Avengers: Endgame from 2019, starring Michael James Shaw and Julian Russo?
+
+
+Data: Forrest Gump director Robert Zemeckis. Forrest Gump publication date 1994. Forrest Gump domain movies.
+
+Data to Text for <confirm>: Are you referring to Robert Zemeckis' Forrest Gump released in 1994?

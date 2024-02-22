@@ -1,0 +1,51 @@
+description of <request_attribute>: A question about a preference in a certain gaming aspect/attribute from data.No extra information should be added in Data to Text for <request_attribute>:
+
+
+Data: movies director None. movies domain movies.
+
+Data to Text for <request_attribute>: Who is your favorite movie director?
+
+
+Data: movies review score None. movies domain movies.
+
+Data to Text for <request_attribute>: What rating would you give to movies that you have watched recently?
+
+
+Data: movies MPA film rating None. movies domain movies.
+
+Data to Text for <request_attribute>: What rating system do you think is best for movies?
+
+
+Data: movies genre None. movies domain movies.
+
+Data to Text for <request_attribute>: What genres of movies do you enjoy watching?
+
+
+Data: movies publication date None. movies domain movies.
+
+Data to Text for <request_attribute>: What year was your favorite movie released?
+
+
+Data: movies cast member None. movies domain movies.
+
+Data to Text for <request_attribute>: Who is your favorite actor from any movie?
+
+
+Data: movies review score None. movies domain movies.
+
+Data to Text for <request_attribute>:  What do you think is the review score for this movie?
+
+
+Data: movies producer None. movies domain movies.
+
+Data to Text for <request_attribute>: Who is your favorite movie producer?
+
+
+Data: movies screenwriter None. movies domain movies.
+
+Data to Text for <request_attribute>: Is there a screenwriter whose movies you enjoy?
+
+
+Data: movies MPA rating None. movies domain movies.
+
+Data to Text for <request_attribute>: Is there a particular MPA rating content a movie must have for you to even consider watching it?

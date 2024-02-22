@@ -1,0 +1,51 @@
+description of <recommend>: A question asking if your friend is familiar with a video game you would recommend.In the response, bring up the given video game (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Make sure you ask about the game, not the attributes. No extra information should be added in Data to Text for <recommend>:
+
+
+Data: The Banshees of Inisherin review score excellent. The Banshees of Inisherin director Martin McDonagh. The Banshees of Inisherin domain movies.
+
+Data to Text for <recommend>: Have you seen The Banshees of Inisherin? It's excellent and directed by Martin McDonagh.
+
+
+Data: Indiana Jones and the Last Crusade review score good. Indiana Jones and the Last Crusade cast member Pat Roach, Julian Glover. Indiana Jones and the Last Crusade domain movies.
+
+Data to Text for <recommend>:  If you're looking for a good movie with Pat Roach and Julian Glover, have you seen Indiana Jones and the Last Crusade?
+
+
+Data: Spencer review score good. Spencer director Pablo Larraín. Spencer domain movies.
+
+Data to Text for <recommend>:  I heard good things about Spencer, a movie directed by Pablo Larraín. Have you seen it?
+
+
+Data: Scooby-Doo review score average. Scooby-Doo domain movies.
+
+Data to Text for <recommend>:  I heard Scooby-Doo has an average rating, have you seen it?
+
+
+Data: The Northman review score good. The Northman MPA film rating R. The Northman domain movies.
+
+Data to Text for <recommend>: Have you seen The Northman? It's rated R and has a good review score.
+
+
+Data: Armageddon review score poor. Armageddon director Michael Bay. Armageddon domain movies.
+
+Data to Text for <recommend>:  Have you seen the movie Armageddon, directed by Michael Bay? Even though the reviews were poor, I think it's worth a watch.
+
+
+Data: No Time to Die review score good. No Time to Die genre spy film, thriller film. No Time to Die domain movies.
+
+Data to Text for <recommend>: Have you seen No Time to Die? I heard it's a good spy film and thriller movie.
+
+
+Data: Iron Man 3 review score average. Iron Man 3 cast member George Kotsiopoulos, Demetrios Hodges. Iron Man 3 domain movies.
+
+Data to Text for <recommend>:  With an average review score and George Kotsiopoulos and Demetrios Hodges in the cast, have you seen Iron Man 3 yet?
+
+
+Data: Forrest Gump review score good. Forrest Gump genre comedy film, coming-of-age fiction. Forrest Gump domain movies.
+
+Data to Text for <recommend>:  I heard Forrest Gump is a good movie, have you seen it? It's a comedy and coming-of-age fiction.
+
+
+Data: Spencer review score good. Spencer screenwriter Steven Knight. Spencer domain movies.
+
+Data to Text for <recommend>: Have you seen the movie Spencer written by Steven Knight? It has a pretty good review score.

@@ -1,0 +1,61 @@
+,name,gender,date_of_birth,cast_member,spouse,place_of_birth,height,awards_received,rating
+0,Kit Harington,male,1986,,Rose Leslie,Acton,average,,highly rated
+1,Sophie Turner,female,1996,,Joe Jonas,Northampton,average,,highly rated
+2,Maisie Williams,female,1997,,,Bristol,average,,highly rated
+3,Peter Dinklage,male,1969,"{'Avengers: Infinity War', 'The Station Agent', 'X-Men: Days of Future Past', 'Pixels', 'Game of Thrones'}",Erica Schmidt,Morristown,shorter,"{'Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series', 'Broadcast Film Critics Association Award for Best Cast', 'Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture', 'Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Drama Series', 'Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film', 'Empire Hero Award'}",top rated
+4,Lena Headey,female,1973,,Peter Loughran,Hamilton,average,,highly rated
+5,Emilia Clarke,female,1986,,,London,average,{'Poppy Awards'},top rated
+6,Nikolaj Coster-Waldau,male,1970,,Nukâka Coster-Waldau,Rudkøbing,average,,highly rated
+7,Mandy Moore,female,1984,,Taylor Goldsmith,Nashua,taller,{'star on Hollywood Walk of Fame'},top rated
+8,Sterling K. Brown,male,1976,,Ryan Michelle Bathe,St. Louis,average,"{'Primetime Emmy Award for Outstanding Lead Actor in a Drama Series', 'Time 100', 'Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie', 'Golden Globe Award'}",top rated
+9,Milo Ventimiglia,male,1977,,,Anaheim,average,,highly rated
+10,Justin Hartley,male,1977,,Chrishell Stause,Knoxville,average,,highly rated
+11,Chrissy Metz,female,1980,,,Homestead,average,,highly rated
+12,Jim Parsons,male,1973,"{'Hidden Figures', 'The Boys in the Band', 'The Normal Heart', 'The Big Bang Theory', 'A Kid Like Jake'}",,"St. Joseph Medical Center (Houston, Texas)",taller,"{'Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture', 'Emmy Award', 'Theatre World Award', 'Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series', 'star on Hollywood Walk of Fame', 'Golden Globe Award for Best Actor – Motion Picture Musical or Comedy'}",top rated
+13,Kaley Cuoco,female,1985,"{'8 Simple Rules', 'Hop', 'Charmed', 'The Big Bang Theory', 'The Flight Attendant'}",Karl Cook,Camarillo,taller,"{""Critics' Choice Television Award for Best Actress in a Comedy Series"", 'Golden Raspberry Award for Worst Supporting Actress', 'Satellite Award for Best Supporting Actress – Television Series', 'star on Hollywood Walk of Fame', ""People's Choice Award for Favorite Actress in a New TV Series"", 'Teen Choice Awards'}",top rated
+14,Johnny Galecki,male,1975,{'The Big Bang Theory'},,Bree,average,{'Theatre World Award'},top rated
+15,Ellen Pompeo,female,1969,,,Everett,average,"{'Satellite Award for Best Cast – Television Series', 'Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series', 'Satellite Award for Best Actress – Television Series Drama'}",top rated
+16,Jesse Williams,male,1981,,Aryn Drake-Lee,Chicago,average,,highly rated
+17,Chandra Wilson,female,1969,,,Houston,shorter,{'Theatre World Award'},top rated
+18,Jodie Comer,female,1993,,,Liverpool,taller,"{'Laurence Olivier Award for Best Actress', 'Tony Award for Best Actress in a Play', 'Primetime Emmy Award for Outstanding Lead Actress in a Drama Series', 'British Academy Television Award for Best Actress'}",top rated
+19,Sandra Oh,female,1971,"{'Killing Eve', ""Grey's Anatomy""}",Alexander Payne,Ottawa,average,"{'Officer of the Order of Canada', ""Governor General's Performing Arts Award"", 'Theatre World Award', 'Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film', ""Canada's Walk of Fame""}",top rated
+20,Ted Danson,male,1947,,Mary Steenburgen,San Diego,taller,"{'star on Hollywood Walk of Fame', 'honorary doctor of Carnegie-Mellon University', 'Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series'}",top rated
+21,Kristen Bell,female,1980,"{'The Good Place', 'Frozen', 'Veronica Mars', 'Forgetting Sarah Marshall'}",Dax Shepard,Huntington Woods,shorter,"{'Hollywood Walk of Fame', 'star on Hollywood Walk of Fame', ""People's Choice Award for Favorite Actress in a New TV Series""}",top rated
+22,William H. Macy,male,1950,,Felicity Huffman,Miami,average,"{'Primetime Emmy Award for Outstanding Lead Actor in a Miniseries or a Movie', 'star on Hollywood Walk of Fame', 'Primetime Emmy Award for Outstanding Writing for a Miniseries, Movie or a Dramatic Special'}",top rated
+23,Emmy Rossum,female,1986,,Sam Esmail,New York City,average,,highly rated
+24,Viola Davis,female,1965,,Julius Tennon,St. Matthews,average,"{'Time 100', 'star on Hollywood Walk of Fame', 'Primetime Emmy Award for Outstanding Lead Actress in a Drama Series', 'Grammy Award for Best Audio Book, Narration & Storytelling Recording', 'Crystal Award', 'Tony Award for Best Actress in a Play', 'Drama Desk Award for Outstanding Actress in a Play', 'Theatre World Award', 'Academy Award for Best Supporting Actress', 'Tony Award for Best Featured Actress in a Play', 'Audie Award for Narration by the Author'}",top rated
+25,Billy Bob Thornton,male,1955,,Connie Angland,Hot Springs,average,"{'Writers Guild of America Award', 'Saturn Award', 'Academy Award for Best Writing, Adapted Screenplay', 'Golden Globe Award', 'Edgar Awards', 'star on Hollywood Walk of Fame'}",top rated
+26,David Harbour,male,1975,"{'Stranger Things', 'Quantum of Solace'}",Lily Allen,White Plains,average,,highly rated
+27,Millie Bobby Brown,female,2004,"{'Enola Holmes', 'Stranger Things', 'Godzilla vs. Kong', 'Enola Holmes 2', ""Grey's Anatomy"", 'Godzilla: King of the Monsters'}",,Marbella,average,"{'Time 100', 'Teen Choice Award for Choice TV Actress Fantasy/Sci-Fi', 'MTV Movie & TV Award for Best Performance in a Show', 'Fangoria Chainsaw Awards', ""Kids' Choice Award for Favorite TV Actress"", 'Saturn Award for Best Performance by a Younger Actor in a Television Series', 'Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series'}",top rated
+28,Winona Ryder,female,1971,,,Winona,shorter,"{'star on Hollywood Walk of Fame', 'Screen Actors Guild Award', 'Golden Globe Award for Best Supporting Actress – Motion Picture'}",top rated
+29,Finn Wolfhard,male,2002,,,Vancouver,average,,highly rated
+30,Tom Ellis,male,1978,{'Lucifer'},Meaghan Oppenheimer,Cardiff,average,,moderately rated
+31,Lauren German,female,1978,{'Lucifer'},,Huntington Beach,average,,lower rated
+32,Lesley-Ann Brandt,female,1981,{'Lucifer'},,Cape Town,average,,lower rated
+33,Eva Green,female,1980,"{'The Golden Compass', 'Casino Royale', 'Dumbo', ""Miss Peregrine's Home for Peculiar Children"", 'Dark Shadows'}",,Paris,taller,"{'BAFTA Rising Star Award', 'Chevalier des Arts et des Lettres', 'Empire Award for Best Newcomer'}",highly rated
+34,Aimee Garcia,female,1978,{'Lucifer'},,Chicago,average,,moderately rated
+35,Kevin Alejandro,male,1976,,,San Antonio,average,,moderately rated
+36,Matt Bomer,male,1977,,,Webster Groves,average,"{'Golden Globe Award', 'Golden Globe Award for Best Supporting Actor – Motion Picture'}",highly rated
+37,Timothy Olyphant,male,1968,,,Honolulu,average,{'Theatre World Award'},highly rated
+38,Nick Offerman,male,1970,,Megan Mullally,Joliet,average,{'TCA Awards'},highly rated
+39,Amy Poehler,female,1971,"{'Parks and Recreation', 'Inside Out', 'The Mighty B!'}",Will Arnett,Newton,average,"{'star on Hollywood Walk of Fame', 'Golden Globe Award for Best Actress – Television Series Musical or Comedy', 'MTV Movie Award for Best Jaw Dropping Moment'}",highly rated
+40,Rashida Jones,female,1976,,,Los Angeles,average,,lower rated
+41,Aziz Ansari,male,1983,,,Columbia,average,{'Primetime Emmy Award for Outstanding Writing for a Comedy Series'},highly rated
+42,Chris Pratt,male,1979,"{'Jurassic World', 'The Lego Movie', 'The Super Mario Bros. Movie', 'Onward', 'Guardians of the Galaxy'}",Katherine Schwarzenegger,Virginia,taller,"{'star on Hollywood Walk of Fame', 'Saturn Award'}",highly rated
+43,Aubrey Plaza,female,1984,,Jeff Baena,Wilmington,average,,moderately rated
+44,Rob Lowe,male,1964,,,Charlottesville,average,"{'star on Hollywood Walk of Fame', 'Golden Raspberry Award for Worst Supporting Actor'}",highly rated
+45,Ginnifer Goodwin,female,1978,,Josh Dallas,Memphis,average,,moderately rated
+46,Jennifer Morrison,female,1979,,,Chicago,average,,moderately rated
+47,Lana Parrilla,female,1977,,Nadie,Brooklyn,average,,lower rated
+48,Josh Dallas,male,1978,,Ginnifer Goodwin,Louisville,average,,lower rated
+49,Colin O'Donoghue,male,1981,,,Drogheda,average,,moderately rated
+50,Andrew Lincoln,male,1973,{'The Walking Dead'},,London,average,{'Saturn Award for Best Actor on Television'},highly rated
+51,Norman Reedus,male,1969,{'The Walking Dead'},,Hollywood,average,,lower rated
+52,Melissa McBride,female,1965,{'The Walking Dead'},,Lexington,average,{'Saturn Award'},highly rated
+53,Lauren Cohan,female,1982,{'The Walking Dead'},,New Jersey,taller,,lower rated
+54,Chandler Riggs,male,1999,{'The Walking Dead'},,Atlanta,average,,moderately rated
+55,Danai Gurira,female,1978,{'The Walking Dead'},,Grinnell,average,{'OkayAfrica 100 Women'},highly rated
+56,Jeffrey Dean Morgan,male,1966,{'The Walking Dead'},Hilarie Burton,Seattle,average,{'MTV Movie Award for Best Villain'},highly rated
+57,Rami Malek,male,1981,,,Los Angeles,average,"{'Golden Globe Award for Best Actor – Motion Picture Drama', ""Critics' Choice Television Award for Best Actor in a Drama Series"", 'Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role', 'Satellite Award for Best Actor – Motion Picture', 'BAFTA Award for Best Actor in a Leading Role', 'Primetime Emmy Award for Outstanding Lead Actor in a Drama Series', 'Academy Award for Best Actor'}",top rated
+58,Pedro Pascal,male,1975,,,Santiago,average,"{'Back Stage Garland Awards', 'Los Angeles Drama Critics Circle Award', 'MTV Movie Award for Best Hero'}",highly rated
+59,Tobias Menzies,male,1974,,,London,average,,lower rated

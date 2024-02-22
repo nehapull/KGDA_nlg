@@ -1,0 +1,51 @@
+description of <inform>: A summary of the video game based on the information provided in attribute data.                 The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table.                No extra information should be added in Data to Text for <inform>:
+
+
+Data: Dirt: Sonic the Hedgehog 2 publication date 2022. Sonic the Hedgehog 2 genre adventure film, comedy film. Sonic the Hedgehog 2 character Tika Sumpter as Maddie Wachowski. Sonic the Hedgehog 2 MPA film rating PG. Sonic the Hedgehog 2 review score average. Sonic the Hedgehog 2 director Jeff Fowler. Sonic the Hedgehog 2 producer Hitoshi Okuno. Sonic the Hedgehog 2 domain movies.
+
+Data to Text for <inform>:  Sonic the Hedgehog 2, a 2022 PG-rated adventure-comedy film directed by Jeff Fowler and produced by Hitoshi Okuno, stars Tika Sumpter as Maddie Wachowski. It has an average review score.
+
+
+Data: The Banshees of Inisherin publication date 2023. The Banshees of Inisherin genre tragicomedy, black comedy. The Banshees of Inisherin cast member Colin Farrell, John Carty. The Banshees of Inisherin domain movies.
+
+Data to Text for <inform>:  The Banshees of Inisherin is a 2023 tragicomedy, black comedy movie starring Colin Farrell and John Carty.
+
+
+Data: Ant-Man and the Wasp: Quantumania publication date 2023. Ant-Man and the Wasp: Quantumania genre speculative/fantastic fiction film, comedy film. Ant-Man and the Wasp: Quantumania cast member Paul Rudd, Michelle Pfeiffer. Ant-Man and the Wasp: Quantumania domain movies.
+
+Data to Text for <inform>: Ant-Man and the Wasp: Quantumania is a 2023 comedy/speculative fiction film starring Paul Rudd and Michelle Pfeiffer.
+
+
+Data: Midway publication date 2020. Midway genre drama film, war film. Midway director Roland Emmerich. Midway domain movies.
+
+Data to Text for <inform>: Midway is a 2020 war drama film directed by Roland Emmerich.
+
+
+Data: Doctor Strange in the Multiverse of Madness publication date 2022. Doctor Strange in the Multiverse of Madness genre horror film, adventure film. Doctor Strange in the Multiverse of Madness review score average. Doctor Strange in the Multiverse of Madness director Sam Raimi. Doctor Strange in the Multiverse of Madness domain movies.
+
+Data to Text for <inform>:  Doctor Strange in the Multiverse of Madness is a 2022 horror and adventure film directed by Sam Raimi and rated average.
+
+
+Data: Iron Man 3 publication date 2013. Iron Man 3 genre comedy film, science fiction film. Iron Man 3 MPA film rating PG-13. Iron Man 3 character Serdar Kalsin as Scared Insurgent. Iron Man 3 domain movies.
+
+Data to Text for <inform>: Iron Man 3 is a 2013 PG-13 comedy and science fiction film starring Serdar Kalsin as Scared Insurgent.
+
+
+Data: The Hunt for Red October publication date 1990. The Hunt for Red October genre submarine film, spy film. The Hunt for Red October character Stellan Skarsgård as Captain 2nd rank Viktor Tupolev. The Hunt for Red October director John McTiernan. The Hunt for Red October domain movies.
+
+Data to Text for <inform>: The Hunt for Red October is a 1990 submarine film and spy film directed by John McTiernan and starring Stellan Skarsgård as Captain 2nd rank Viktor Tupolev.
+
+
+Data: No Time to Die publication date 2021. No Time to Die genre thriller film, spy film. No Time to Die cast member Rami Malek, Daniel Craig. No Time to Die screenwriter John Hodge, Scott Z. Burns, Phoebe Waller-Bridge, Neal Purvis and Robert Wade. No Time to Die domain movies.
+
+Data to Text for <inform>:  No Time to Die is a 2021 thriller and spy film starring Rami Malek and Daniel Craig. The movie is written by John Hodge, Scott Z. Burns, Phoebe Waller-Bridge, Neal Purvis and Robert Wade.
+
+
+Data: Titanic publication date 1998. Titanic genre melodrama, flashback film. Titanic review score excellent. Titanic MPA film rating PG-13. Titanic director James Cameron. Titanic domain movies.
+
+Data to Text for <inform>:  Titanic, a 1998 melodrama and flashback film directed by James Cameron, has an excellent review score and is rated PG-13.
+
+
+Data: Scooby-Doo publication date 2002. Scooby-Doo genre adventure film, mystery film. Scooby-Doo MPA film rating PG. Scooby-Doo review score average. Scooby-Doo screenwriter Craig Titley, James Gunn. Scooby-Doo producer Charles Roven. Scooby-Doo domain movies.
+
+Data to Text for <inform>:  Scooby-Doo, a 2002 PG-rated mystery adventure film, was written by Craig Titley and James Gunn, with Charles Roven as the producer. Reviews for it are average.

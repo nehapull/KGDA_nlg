@@ -1,0 +1,51 @@
+description of <recommend>: A question asking if your friend is familiar with a video game you would recommend.In the response, bring up the given video game (in a recommending way) because it has certain attributes that were discussed earlier inthe conversation.Make sure you ask about the game, not the attributes.No extra information should be added in Data to Text for <recommend>:
+
+
+Data: Sid Meier's Civilization V available_on_steam yes. Sid Meier's Civilization V domain video games.
+
+Data to Text for <recommend>: I know you got some Steam credits for your birthday. Have you tried Sid Meier's Civilization V yet?
+
+
+Data: Resident Evil 4 release year 2005. Resident Evil 4 player perspective third person. Resident Evil 4 domain video games.
+
+Data to Text for <recommend>: A good third person game I played from back in 2005 was Resident Evil 4. Have you ever played it before?
+
+
+Data: The Wolf Among Us has multiplayer no. The Wolf Among Us platforms PC. The Wolf Among Us domain video games.
+
+Data to Text for <recommend>: One of my favorite single-player PC games is The Wolf Among Us, do you know about it?
+
+
+Data: Metroid Prime Pinball developer Fuse Games. Metroid Prime Pinball domain video games.
+
+Data to Text for <recommend>: Since you're into games developed by Fuse Games, I wonder if you've tried Metroid Prime Pinball yet.
+
+
+Data: NBA 2K16 developer Visual Concepts. NBA 2K16 domain video games.
+
+Data to Text for <recommend>: Ever tried NBA 2K16 developed by Visual Concepts?
+
+
+Data: Need for Speed: Most Wanted genres driving/racing. Need for Speed: Most Wanted player_perspective first person. Need for Speed: Most Wanted domain video games.
+
+Data to Text for <recommend>: I was playing Need for Speed: Most Wanted last night, you heard of it? It's a first person driving game.
+
+
+Data: Never Alone player perspective side view. Never Alone player domain video games.
+
+Data to Text for <recommend>: While we're on the subject of games played from a side view perspective, have you ever heard of Never Alone?
+
+
+Data: The Witcher 3: Wild Hunt genres action-adventure. The Witcher 3: Wild Hunt genres role-playing. The Witcher 3: Wild Hunt player perspective third person. The Witcher 3: Wild Hunt domain video games.
+
+Data to Text for <recommend>: Since you like action-adventure games from a third person perspective with role-playing elements, you should try this game I like, The Witcher 3: Wild Hunt?
+
+
+Data: Uncharted 4: A Thief's End developer Naughty Dog. Uncharted 4: A Thief's End platforms PlayStation. Uncharted 4: A Thief's End domain video games.
+
+Data to Text for <recommend>: Have you heard of Uncharted 4: A Thief's End? It's this PlayStation game from Naughty Dog.
+
+
+Data: Worms: Reloaded has linux release yes. Worms: Reloaded has mac release yes. Worms: Reloaded domain video games.
+
+Data to Text for <recommend>: If you're looking for a game with both a Mac release and a Linux release, Worms: Reloaded is one. Have you heard of it before?

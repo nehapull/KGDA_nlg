@@ -1,0 +1,110 @@
+{
+  "names": [
+  "name",
+  "genres",
+  "cast_member",
+  "character", 
+  "screenwriter",
+  "awards_received", 
+  "rating",
+  "creator",
+  "specifier"
+  ],
+  "list_slots": [
+    "genres",
+    "cast_member",
+    "character",
+    "creator",
+    "screenwriter",
+    "awards_received"
+  ],
+  "da_constraints": {
+    "confirm": {
+      "mandatory": [
+        "name"
+      ],
+      "excluded": [
+        "rating",
+        "awards_received"
+      ]
+    },
+    "give_opinion": {
+      "mandatory": [
+        "name",
+        "rating"
+      ],
+      "excluded": [ 
+      ]
+    },
+    "inform": {
+      "mandatory": [
+        "name", 
+        "genres"
+      ],
+      "excluded": []
+    },
+    "recommend": {
+      "mandatory": [
+        "name",
+        "rating"
+      ],
+      "excluded": [
+      "character"
+      ]
+    },
+    "request": {
+      "mandatory": [
+        "specifier"
+      ],
+      "excluded": [
+        "name",
+        "rating",
+        "character"
+      ]
+    },
+    "request_attribute": {
+      "mandatory": [],
+      "excluded": [
+        "name",
+        "character"
+      ]
+    },
+    "request_explanation": {
+      "mandatory": [
+        "rating"
+      ],
+      "excluded": [
+        "name"
+      ]
+    },
+    "suggest": {
+      "mandatory": [
+        "name"
+      ],
+      "excluded": [
+        "rating"
+      ]
+    },
+    "verify_attribute": {
+      "mandatory": [
+        "name",
+        "rating"
+      ],
+      "excluded": [
+      ]
+    }
+  },
+  "value_constraints": {
+    "dialogue_acts": {
+      "request_attribute": 0
+    },
+    "slots": {
+      "cast_member": 2,
+      "character": 2,
+      "awards_received": 1,
+      "creator": 2,
+      "genres": 1,
+      "screenwriter": 1
+    }
+  }
+}

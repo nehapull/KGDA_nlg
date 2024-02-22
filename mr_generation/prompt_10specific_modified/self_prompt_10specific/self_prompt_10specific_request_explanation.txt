@@ -1,0 +1,51 @@
+description of <request_explanation>: A question about why your friend likes or dislikes a certain type ofgames. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of games. Assume your friend has indicated his or her sentiment about the kind of games earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion.The response should consist of a single open-ended question about the type of games determined by the remaining given attributes.The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking,e.g., excellent ~ love, average ~ decent/mediocre, or poor ~ boringNo extra information should be added in Data to Text for <request_explanation>:
+
+
+Data:  movies review score good. movies screenwriter Steven Knight. movies domain movies. 
+
+Data to Text for <request_explanation>: What do you think makes the movies written by Steven Knight so good?
+
+
+Data: movies review score good. movies screenwriter Hampton Fancher, David Peoples. movies domain movies. 
+
+Data to Text for <request_explanation>: What is it that makes you enjoy the movies written by Hampton Fancher and David Peoples?
+
+
+Data: movies review score average. movies genre action film, adventure film. movies character Harish Patel as Karun. movies domain movies. 
+
+Data to Text for <request_explanation>: Why do you think action and adventure movies with Harish Patel as Karun have such an average rating?
+
+
+Data: movies review score good. movies genre black comedy film, crime film. movies domain movies.
+
+Data to Text for <request_explanation>: I'm wondering, what is it about the black comedy and crime movies that you find so good?
+
+
+Data: movies review score poor. movies domain movies.
+
+Data to Text for <request_explanation>: What made you give the movie a poor review?
+
+
+Data: movies review score average. movies director Shane Black. movies domain movies.
+
+Data to Text for <request_explanation>: What is it about the movies directed by Shane Black that make them have such an average review score?
+
+
+Data: movies review score good. movies director Ethan Coen. movies producer Ethan Coen, Joel Coen. movies domain movies. 
+
+Data to Text for <request_explanation>: Why do you think the movies by Ethan and Joel Coen are rated so well?
+
+
+Data: movies review score excellent. movies character Eric Braeden as John Jacob Astor IV. movies domain movies.
+
+Data to Text for <request_explanation>: What is it about Eric Braeden's performance as John Jacob Astor IV that you found to be so excellent?
+
+
+Data: movies review score poor. movies MPA film rating R. movies cast member William Moseley, Matthew Goode. movies domain movies. 
+
+Data to Text for <request_explanation>: What is it about the R-rated movies starring William Moseley and Matthew Goode that you find so poor?
+
+
+Data: movies review score good. movies genre thriller film, medieval film. movies publication date 2022. movies domain movies.
+
+Data to Text for <request_explanation>: I'm wondering, what is it about the 2022 thriller-medieval movies that you find to be good?

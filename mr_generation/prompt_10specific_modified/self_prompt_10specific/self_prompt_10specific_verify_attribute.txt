@@ -1,0 +1,51 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of games in general.In the response, state an observation about your friend's attitude to the given game and then ask him or her whether it generalizes to all games of that type. \The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given game's name. The second will be a yes/no question verifying that your friend has the observedattitude towards all games of the same type (determined by the remaining given attributes).The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., excellent ~ love, average ~ decent/mediocre, or poor ~ boring (see examples below).No extra information should be added in Data to Text for <verify_attribute>:
+
+
+Data: The Northman review score good. The Northman genre epic film, historical film. The Northman domain movies.
+
+Data to Text for <verify_attribute>: You said The Northman was a good movie. Do you usually like movies of the epic and historical genres?
+
+
+Data: Uncharted review score average. Uncharted character Tati Gabrielle as Braddock. Uncharted cast member Tati Gabrielle, Tom Holland. Uncharted domain movies.
+
+Data to Text for <verify_attribute>: I know that you thought that Uncharted was just okay. Do you usually find movies with Tati Gabrielle and Tom Holland to be average?
+
+
+Data: American Psycho review score average. American Psycho publication date 2000. American Psycho genre crime film, comedy horror. American Psycho domain movies.
+
+Data to Text for <verify_attribute>: I know you found American Psycho to be fairly average. Is that how you feel about 2000s crime films that have comedic and horror elements?
+
+
+Data: The Gray Man review score average. The Gray Man producer Joe Roth. The Gray Man domain movies.
+
+Data to Text for <verify_attribute>: You told me that The Gray Man was just okay. Do you usually think Joe Roth movies are average?
+
+
+Data: Greyhound review score good. Greyhound character Thomas Kretschmann as Grey Wolf. Greyhound domain movies.
+
+Data to Text for <verify_attribute>: I remember you said Greyhound was good. Do you usually enjoy movies with Thomas Kretschmann as Grey Wolf?
+
+
+Data: Sonic the Hedgehog 2 review score average. Sonic the Hedgehog 2 MPA film rating PG. Sonic the Hedgehog 2 director Jeff Fowler. Sonic the Hedgehog 2 domain movies.
+
+Data to Text for <verify_attribute>: I know you weren't too fond of Sonic the Hedgehog 2. Do you think Jeff Fowler's PG-rated films are usually below average?
+
+
+Data: Indiana Jones and the Last Crusade review score good. Indiana Jones and the Last Crusade screenwriter Tom Stoppard, Jeffrey Boam, George Lucas, Philip Kaufman, Menno Meyjes. Indiana Jones and the Last Crusade publication date 1989. Indiana Jones and the Last Crusade domain movies.
+
+Data to Text for <verify_attribute>: Since you liked Indiana Jones and the Last Crusade, do you usually enjoy movies written by Tom Stoppard, Jeffrey Boam, George Lucas, Philip Kaufman, and Menno Meyjes that were released in 1989?
+
+
+Data: Iron Man 2 review score excellent. Iron Man 2 MPA film rating PG-13. Iron Man 2 screenwriter Justin Theroux. Iron Man 2 domain movies.
+
+Data to Text for <verify_attribute>: You said Iron Man 2 was excellent. Do you usually like other PG-13 movies written by Justin Theroux?
+
+
+Data: Need for Speed: Mrs. Harris Goes to Paris review score excellent. Mrs. Harris Goes to Paris genre drama film. Mrs. Harris Goes to Paris domain movies.
+
+Data to Text for <verify_attribute>: You told me that Mrs. Harris Goes to Paris was an excellent film. Do you usually love movies from the drama genre?
+
+
+Data: Creed II review score average. Creed II MPA film rating PG-13. Creed II domain movies.
+
+Data to Text for <verify_attribute>: You said that Creed II was just ok. Do you typically think PG-13 films are just average?
